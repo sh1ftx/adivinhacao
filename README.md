@@ -1,6 +1,3 @@
-Aqui está uma documentação atualizada do projeto de adivinhação de número, personalizada com as suas informações e especialidades:
-
----
 
 # Jogo de Adivinhação de Número
 
